@@ -2,6 +2,7 @@
 
 <!--
 **youn-sun/youn-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![youn-sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=youn-sun&theme=dark&show_icons=true)
 
 Here are some ideas to get you started:
 
