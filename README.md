@@ -1,6 +1,6 @@
-<h2>🚶 WALK EVERYDAY</h2>
+<h1 style="font-size: 2.5em; font-weight: bold;">🚶 WALK EVERYDAY</h1>
 
----
+<br/><br/>
 
 ## ✨ STACK ✨
 
@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black"/>
 
